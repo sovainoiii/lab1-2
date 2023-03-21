@@ -1,0 +1,15 @@
+E:\CSharp\database\lab1\bin\Debug\lab1.exe.config
+E:\CSharp\database\lab1\bin\Debug\lab1.exe
+E:\CSharp\database\lab1\bin\Debug\lab1.pdb
+E:\CSharp\database\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+E:\CSharp\database\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\database\lab1\obj\Debug\lab1.Form1.resources
+E:\CSharp\database\lab1\obj\Debug\lab1.Properties.Resources.resources
+E:\CSharp\database\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+E:\CSharp\database\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+E:\CSharp\database\lab1\obj\Debug\lab1.exe
+E:\CSharp\database\lab1\obj\Debug\lab1.pdb
+E:\CSharp\database\lab1\obj\Debug\lab1.Form2.resources
+E:\CSharp\database\lab1\obj\Debug\lab1.Form3.resources
+E:\CSharp\database\lab1\obj\Debug\lab1.Form4.resources
+E:\CSharp\database\lab1\obj\Debug\lab1.Form5.resources
